@@ -1,0 +1,7 @@
+D:\Egyetem\oop\SizeOfFileOrFolder\SizeOfFileOrFolder\bin\Debug\SizeOfFileOrFolder.exe.config
+D:\Egyetem\oop\SizeOfFileOrFolder\SizeOfFileOrFolder\bin\Debug\SizeOfFileOrFolder.exe
+D:\Egyetem\oop\SizeOfFileOrFolder\SizeOfFileOrFolder\bin\Debug\SizeOfFileOrFolder.pdb
+D:\Egyetem\oop\SizeOfFileOrFolder\SizeOfFileOrFolder\obj\Debug\SizeOfFileOrFolder.csprojAssemblyReference.cache
+D:\Egyetem\oop\SizeOfFileOrFolder\SizeOfFileOrFolder\obj\Debug\SizeOfFileOrFolder.csproj.CoreCompileInputs.cache
+D:\Egyetem\oop\SizeOfFileOrFolder\SizeOfFileOrFolder\obj\Debug\SizeOfFileOrFolder.exe
+D:\Egyetem\oop\SizeOfFileOrFolder\SizeOfFileOrFolder\obj\Debug\SizeOfFileOrFolder.pdb
